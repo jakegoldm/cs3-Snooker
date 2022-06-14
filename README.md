@@ -1,1 +1,1 @@
-This project was completed for Caltech's CS3 course over a three week period. The project was to be completed in groups of 4. 
+This project was completed for Caltech's CS 3: Introduction to Software Design course. This project includes a series of demos completed in groups of 4. This also includes a game, Snooker, that was completed over a three-week period. The demos can be viewed by including them in the Makefile. The demos/game can be run by using `Make No_ASAN=true All`
